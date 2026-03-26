@@ -5,4 +5,4 @@
 <img src=https://github.com/wookibooki0328/IP2026/blob/main/homework2/homework2.gif/>
 
   [code](https://github.com/wookibooki0328/IP2026/blob/main/homework2/homework2.ipynb)
-#homework3
+# homework3
