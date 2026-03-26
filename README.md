@@ -7,4 +7,5 @@
   [code](https://github.com/wookibooki0328/IP2026/blob/main/homework2/homework2.ipynb)
 # homework3
 <img src=https://github.com/wookibooki0328/IP2026/blob/main/homework3.png/>
-[code](https://github.com/wookibooki0328/IP2026/blob/main/homework3.ipynb)
+
+[code]https://github.com/wookibooki0328/IP2026/blob/main/homework3.ipynb
