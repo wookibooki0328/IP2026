@@ -14,5 +14,6 @@
 
 [code](https://github.com/wookibooki0328/IP2026/blob/main/homework4.ipynb)
 # homework5
+<img src=https://github.com/wookibooki0328/IP2026/blob/main/homework5.gif/>
 
 [code](https://github.com/wookibooki0328/IP2026/blob/main/homework5.ipynb)
