@@ -10,3 +10,4 @@
 
 [code](https://github.com/wookibooki0328/IP2026/blob/main/homework3.ipynb)
 # homework4
+<img src=https://github.com/wookibooki0328/IP2026/blob/main/homework4.gif/>
